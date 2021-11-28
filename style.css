@@ -1,0 +1,54 @@
+style>@import url(https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab&amp;amp;amp;amp;display=swap);html{font-family:'Roboto',sans-serif;font-size:18px}body{padding:0;margin:0;background-color:#fff;color:#333}body>header{padding:20px 50px;background-color:#6c0aab;color:#fff}body>header img{float:left;margin-right:15px}body>header h1{font-size:33px;margin:0}body>header p{font-size:19px;margin:0}main{padding:30px 50px}main article{padding:25px 30px;background-color:#f6f6f6;margin-bottom:50px}main article h2{font-size:25px;font-family:'Roboto Slab',serif;margin-top:0}main article img{height:160px;margin:0 20px 20px 0}main article p,main article h3,main article ul,main article ol{color:#666}footer{background-color:#45036f;padding:20px 50px}footer p{color:#fff;font-size:18px;margin:0} body{background-color:#fa6505;}
+p{
+    font-family:Caveat; 
+    font-size: 22px;
+}
+strong{
+    color:#070707;
+    font-size:30px;
+}
+.one{
+    background-color:#fa0509;
+}
+.two{
+    font-family:Caveat; 
+}
+.three{
+    background-color:#eefa05;   
+}
+h2{
+    color:#070707;
+    font-size:22px;
+}
+.h1{
+    font-family:Caveat;
+    font-size: 60px;
+}
+.testo{
+    color:#fefdfd;
+    font-size:100px;
+}
+.burger{
+    font-size:30px;
+    color:red;
+}
+.chel{
+    font-size:30px;
+    color:yellow;
+}
+.li{
+    color:#ffffff;
+    
+}
+.itali{
+    color:#ffffff;
+}
+article{
+    border:2px solid black;
+}
+.li1{
+    font-size:20px;
+}
+.li2{
+    color:#000000;
+}
